@@ -1,0 +1,40 @@
+.order-update-container {
+    margin: 20px;
+}
+.map img {
+    width: 500px;
+}
+.order-update {
+    width: 230px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 20px 15px;
+}
+.order-update img {
+    width: 60px;
+}
+.location h6, .rider h6 {
+    font-size: 13px;
+    font-weight: 500;
+}
+.location p, .rider p {
+    font-size: 10px;
+    color: gray;
+    line-height: 8px;
+}
+.time {
+    font-size: 11px;
+    color: gray;
+}
+.rider img {
+    width: 55px;
+}
+.contact-btn {
+    border: none;
+    border-radius: 5px;
+    background-color: #ff2626;
+    padding: 7px 0;
+    font-size: 12px;
+    color: white;
+    width: 100%;
+}

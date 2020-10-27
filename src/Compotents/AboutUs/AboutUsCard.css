@@ -1,0 +1,38 @@
+.about-us-card {
+    border: none;
+    border-radius: 20px;
+}
+.about-us-card:hover {
+    box-shadow: 4px 4px 15px #ccfcff;
+}
+@media (max-width: 650px){
+    .about-us-card {
+        width: 18rem;
+    }
+}
+
+.aboutUs-card-title {
+    font-size: 18px;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 20px;
+}
+.aboutUs-card-text {
+    color: gray;
+    font-size: 13px;
+    line-height: 17px;
+}
+.see-more-btn {
+    font-size: 14px;
+    font-weight: 500;
+    color: blue;
+}
+.see-more-icon {
+    margin: 4px 0px 0px 20px;
+}
+.aboutUs-icon {
+    padding-right: 0px;
+}
+.aboutUs-icon img {
+    width: 30px;
+}

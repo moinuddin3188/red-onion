@@ -1,0 +1,31 @@
+.card {
+    border: none !important;
+    width: 20rem;
+}
+.food-card:hover {
+    box-shadow: 3px 3px 15px lightgray;
+    cursor: pointer;
+}
+
+.food-card img {
+    width: 200px;
+}
+.food-card .card-title {
+    font-size: 15px;
+    font-weight: 600;
+}
+.food-card .card-text {
+    font-size: 13px;
+    line-height: 8px;
+}
+.food-img {
+    text-align: center;
+}
+@media (max-width: 770px) {
+    .food-img img {
+        width: 300px;
+    }
+    .food-card {
+        width: auto;
+    }
+}

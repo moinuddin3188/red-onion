@@ -1,0 +1,91 @@
+.place-order-container {
+    margin-top: 100px;
+}
+.delivery-details-form input {
+    width: 330px;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 0px 10px;
+    font-size: 12px;
+    height: 37px;
+}
+.delivery-details-form h5 {
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+    color: #333;
+}
+.delivery-details-form input[type="submit"] {
+    background-color: #f83939;
+    color: white;
+}
+.order-details {
+    width: 250px;
+}
+.restaurant-name {
+    font-size: 12px;
+    color: #333;
+    line-height: 23px;
+}
+.ordered-food {
+    background-color: #f0f0f0;
+    padding: 7px;
+    margin: 8px 0px;
+    border-radius: 7px;
+    width: 100%;
+}
+.ordered-food img {
+    width: 60px;
+}
+.ordered-food p {
+    line-height: 15px;
+    margin: 0;
+}
+.ordered-food-title {
+    font-size: 10px;
+    color: #333;
+}
+.ordered-food-price {
+    font-size: 12px;
+    color: red;
+    font-weight: 500;
+}
+.ordered-food-text {
+    font-size: 8px;
+    color: gray;
+}
+.prices{
+    width: 100%;
+}
+.prices td {
+    font-size: 12px;
+    height: 25px;
+    color: #333;
+}
+.prices .total td {
+    font-size: 14px;
+    font-weight: 500;
+}
+.place-order-btn {
+    border: none;
+    border-radius: 5px;
+    background-color: #f83939;
+    padding: 8px;
+    margin-top: 20px;
+    width: 100%;
+    color: white;
+    font-size: 12px;
+}
+
+@media (max-width: 992px) {
+    .order-details-container {
+        display: flex;
+        justify-content: center;
+    }
+    .order-details {
+        width: 330px;
+        margin: 50px 0px;
+    }
+}

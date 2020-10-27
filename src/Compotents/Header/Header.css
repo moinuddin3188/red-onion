@@ -1,0 +1,21 @@
+.header-container {
+    background-image: url("../../FakeData/Images/bannerbackground1.png");
+    background-repeat: repeat;
+    background-size: 100%;
+    margin-top: 20px;
+    padding: 0px 10px;
+    height: 410px;
+}
+.header-container input {
+    border: none;
+    border-radius: 50px;
+    font-size: 13px;
+}
+.header-container input[type="submit"] {
+    position: relative;
+    right: 35px;
+    background-color: #f11f1f;
+    color: white;
+    font-size: 13px;
+    padding: 5px 17px;
+}
