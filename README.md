@@ -25,3 +25,4 @@ This is an online food delivery service provider web app. User can order their f
 * HTML5
 * CSS
 
+**My Resume:** [Click here](https://drive.google.com/file/d/1684Y6dziV-nsMXY7rx5edY6DpGftiPm_/view?usp=sharing)
