@@ -1,6 +1,6 @@
 # Red Onion
 
-This is an online food delivery service. User can order their favarit food in this web site.
+This is an online food delivery service provider web app. User can order their favarit food in this web site.
 
 ### Features
 
