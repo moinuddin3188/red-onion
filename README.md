@@ -1,8 +1,7 @@
 # Red Onion
 
 This is an online food delivery service provider web app. User can order their favarit food in this web site.
-
-[Visit Web site](https://red-onion-ab22b.web.app/)
+Visit this Web site. [Click here](https://red-onion-ab22b.web.app/)
 
 ### Features
 
